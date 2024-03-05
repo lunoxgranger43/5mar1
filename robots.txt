@@ -1,0 +1,25 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://ftp.jinjeon.me/superjp.html/sitemap.xml
+Sitemap: https://ftp.jinjeon.me/gilajp.html/sitemap.xml
+Sitemap: https://ftp.jinjeon.me/gojekpot.html/sitemap.xml
+Sitemap: https://ftp.jinjeon.me/winstrike69.html/sitemap.xml
+Sitemap: https://ftp.jinjeon.me/jagoan86.html/sitemap.xml
+Sitemap: https://ftp.jinjeon.me/kaptenjackpot.html/sitemap.xml
+Sitemap: https://ftp.jinjeon.me/boosterjp.html/sitemap.xml
+Sitemap: https://ftp.jinjeon.me/kerajaanslot.html/sitemap.xml
+Sitemap: https://ftp.jinjeon.me/pakong86.html/sitemap.xml
+Sitemap: https://ftp.jinjeon.me/viral88.html/sitemap.xml
+Sitemap: https://ftp.jinjeon.me/clan4d.html/sitemap.xml
+Sitemap: https://ftp.jinjeon.me/dinamit4d.html/sitemap.xml
+Sitemap: https://ftp.jinjeon.me/elang212.html/sitemap.xml
+Sitemap: https://ftp.jinjeon.me/gori77.html/sitemap.xml
+Sitemap: https://ftp.jinjeon.me/viral4d.html/sitemap.xml
+Sitemap: https://ftp.jinjeon.me/playground88.html/sitemap.xml
